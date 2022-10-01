@@ -1,0 +1,23 @@
+h1{
+    color: red;
+}
+h3{
+    color: red;
+}
+ul{
+    color: brown;
+    letter-spacing: 0.5ch;
+}
+li[a]{
+    text-decoration-line: line-through;
+}
+ol{
+    color: brown;
+}
+p{
+    color: brown;
+}
+a{
+    text-decoration: none;
+    text-decoration: yellow;
+}
